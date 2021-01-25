@@ -1,0 +1,13 @@
+Each programming language has:
+ 
+1. primitive expressions (for example numbers)
+2. means of combination, by which compound elements are built from simpler ones
+3. means of abstraction, by which compound elements can be named and manipulated as units.
+
+
+Expressions representing numbers may be combined with an expression representing a primitive
+procedure (such as + or *) to form a compound expression that represents the application of the
+procedure to those numbers.
+
+(+ 137 349) => 486
+(- 1000 334) => 666
